@@ -18,4 +18,10 @@ import torch.nn as nn
 import torchutils as tu
 from torchmetrics.classification import BinaryAccuracy
 
+<<<<<<< HEAD
 fdsfsd
+=======
+# 4324324234324234324
+#аываывавы
+# fdsfsdfgsdgds
+>>>>>>> imdb
